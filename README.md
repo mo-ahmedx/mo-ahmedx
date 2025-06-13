@@ -1,17 +1,30 @@
-# Hi there, I'm Mohammed Ahmed! 👋 (He/Him)
+# 💻 MoAhmed | Aspiring Full-Stack Developer
 
-I'm a student developer with a passion for creating **mobile RPG games**. Currently, I'm building my skills in **web development** and **programming** to reach my goal of making immersive games for mobile devices. Here’s a bit about my journey so far:
+Hi there! I'm MoAhmed — a passionate self-taught developer who loves turning ideas into real, visual, working software. I'm currently deepening my skills in **full-stack web development**, and I'm especially drawn to the design and visual logic of code.
 
-- 🌐 Started with **HTML** and **CSS** to learn the fundamentals of web development.
-- 📚 Now learning **JavaScript** to add interactivity and expand my web dev skills.
-- 🔧 Building a solid programming foundation with **C**, and now diving deeper with **C++** and **C#**.
-- 🎮 Excited to create **RPG games** that bring new experiences to mobile players.
-- 🇸🇴 Based in **Mogadishu, Somalia**.
+## 🚀 Skills & Experience
 
-### Fun Fact
+- 💡 **Languages I Use:**
+  - C++
+  - C
+  - Python
+  - JavaScript
+  - HTML & CSS
 
-- 🎲 **Did you know?** The first video game ever created was a simple tennis game made in 1958 by physicist William Higinbotham. Game development has come a long way since then, and I'm excited to be part of its future!
+- 🛠️ **Currently Learning:**
+  - Full-Stack Web Development
+  - Building visually appealing and interactive user interfaces
 
-### Get in Touch
+## 🎯 What I'm About
 
-- 📫 **Email:** [mohammedahmedk886@gmail.com](mailto:mohammedahmedk886@gmail.com)
+- I enjoy writing clean, organized code and learning by building real-world projects.
+- I’m constantly exploring new technologies to expand my toolkit.
+- I believe that learning visually — by seeing how code affects the user — makes development more exciting and effective.
+
+## 📫 Let’s Connect
+
+Want to collaborate or just chat about code? Reach out on GitHub or drop me a message!
+📫 **Email:** [mohammedahmedk886@gmail.com](mailto:mohammedahmedk886@gmail.com)
+
+
+*“Code is like poetry — clean, expressive, and powerful when done right.”*
