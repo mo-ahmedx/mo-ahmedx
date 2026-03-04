@@ -40,36 +40,39 @@
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
-# 📂 Featured Project
+## 📂 Featured Project
 
 ### 🎓 University Management System
 
-A system designed to manage university operations including:
+A **large-scale university management platform** designed to streamline academic and administrative operations across multiple departments.
 
-- Student records  
-- Course management  
-- Administrative tools  
+The system handles complex workflows including:
 
-🔒 Currently **closed source**
+* 👨‍🎓 Student lifecycle management
+* 📚 Course and curriculum management
+* 🏫 Department and faculty administration
+* 📊 Academic records and reporting
+* 🔐 Secure role-based access control
+
+Building as a **full-stack enterprise application** with a scalable architecture to support real-world university environments.
+
+> 🔒 This project is currently **private / closed source** and still under active development.
+
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
+
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mo-ahmedx&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=mo-ahmedx&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mo-ahmedx&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-ahmedx&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
