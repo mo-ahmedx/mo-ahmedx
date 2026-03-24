@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Mohamed Ahmed
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Mohamed%20Ahmed&fontSize=50&fontAlignY=38&animation=twinkling" />
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=CS+Student;PERN+Full-Stack+Engineer;JavaScript+%7C+TypeScript+%7C+Python;Building+Scalable+Web+Applications" />
@@ -66,12 +68,12 @@ Building as a **full-stack enterprise application** with a scalable architecture
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mo-ahmedx&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mo-ahmedx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-ahmedx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</div>
 
 
 ---
@@ -103,4 +105,3 @@ Building as a **full-stack enterprise application** with a scalable architecture
 <p align="center">
 ⭐ From <a href="https://github.com/mo-ahmedx">mo-ahmedx</a>
 </p>
----
