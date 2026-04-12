@@ -15,7 +15,7 @@
 # 🧑‍💻 About Me
 
 💻 **Computer Science Student**  
-🚀 **PERN Stack Full-Stack Engineer**  
+🚀 **PERN Stack Engineer**  
 🧠 Passionate about building modern scalable web apps  
 🌱 Currently learning **TypeScript & Backend Architecture**
 
@@ -38,6 +38,7 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 ### Frontend
 
