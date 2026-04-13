@@ -69,16 +69,6 @@ Building as a **full-stack enterprise application** with a scalable architecture
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mo-ahmedx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-ahmedx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</div>
-
-
----
-
 # 🐍 Contribution Snake
 
 <p align="center">
