@@ -48,26 +48,6 @@
 
 ---
 
-## 📂 Featured Project
-
-### 🎓 University Management System
-
-A **large-scale university management platform** designed to streamline academic and administrative operations across multiple departments.
-
-The system handles complex workflows including:
-
-* 👨‍🎓 Student lifecycle management
-* 📚 Course and curriculum management
-* 🏫 Department and faculty administration
-* 📊 Academic records and reporting
-* 🔐 Secure role-based access control
-
-Building as a **full-stack enterprise application** with a scalable architecture to support real-world university environments.
-
-> 🔒 This project is currently **private / closed source** and still under active development.
-
-
----
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
